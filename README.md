@@ -9,12 +9,11 @@
 
 ## 📁 Project Structure
 
-src
-├── app # Route-based files using Next.js 14 App Router
-├── components # Reusable shared components
-├── helpers # Small utility functions
-├── hooks # Custom React hooks
-├── icons # SVG icon components
+- `app`: Route-based files using Next.js 14 App Router
+- `components`: Reusable shared components
+- `helpers`: Small utility functions
+- `hooks`: Custom React hooks
+- `icons`: SVG icon components
 
 ---
 
