@@ -30,6 +30,13 @@ Although the original task suggested using the `/jobs` route, I intentionally op
 
 ---
 
+## 🌍 Deployment
+
+- Client (Vercel): https://jobs-search-application.vercel.app/
+- Server (Render): https://jobs-search-application.onrender.com/api/auth
+
+---
+
 ## 🚀 Getting Started
 
 To run the project locally:
